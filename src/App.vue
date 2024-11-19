@@ -1,9 +1,10 @@
 <script setup>
+import Paragraph from "./components/Paragraph.vue";
 </script>
 
 <template>
   <header>
-      <h1>app here</h1>
+      <Paragraph/>
   </header>
 </template>
 
